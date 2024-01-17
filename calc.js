@@ -18,3 +18,5 @@ console.log(calculate("-", 2, 4));
 console.log(calculate("*", 2, 4));
 console.log(calculate("/", 2, 4));
 console.log(calculate("s", 2, 4));
+
+console.log("new cl addes");
